@@ -1,0 +1,7 @@
+#Tue Dec 06 17:46:47 EST 2016
+base.0=C\:\\Users\\kkhalaf\\Desktop\\Android Development\\HoroscopeApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b59dd27a0058191bf2773ebf640fea756d2f31b5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\kkhalaf\\Desktop\\Android Development\\HoroscopeApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4babeafe0a81238fb17c066e5e21928023f838a8\\classes.dex
+base.1=C\:\\Users\\kkhalaf\\Desktop\\Android Development\\HoroscopeApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4babeafe0a81238fb17c066e5e21928023f838a8
+file.0=C\:\\Users\\kkhalaf\\Desktop\\Android Development\\HoroscopeApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b59dd27a0058191bf2773ebf640fea756d2f31b5\\classes.dex

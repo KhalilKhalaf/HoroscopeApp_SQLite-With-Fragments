@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="72676126780482"
+    token="-6081577313496632831"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="6975" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="546" />
+    <task
+        name="verifier"
+        duration="91" />
+
+    <artifact
+        location="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="72676126780482"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

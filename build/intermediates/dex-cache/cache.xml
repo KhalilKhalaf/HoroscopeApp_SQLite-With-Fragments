@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b141af2acda94323e7c105e46c17d155dfe7ec17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f3f25bb72aa2ada24451a7bb222ddead1d90d1b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ac13fa0a06074f5d689c264c398dc236870d72e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_44411ad1ea708899ffd56da276aaf711b82e75aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_b2de6a80accf634c9261c0b9d34c485b9564d84a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a9d2788236279814c1cbfbc14b2c963deaa59d1">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b59dd27a0058191bf2773ebf640fea756d2f31b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_1fb3fc4e9a0669c20ab321637be14dc8bc2723bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_96930b709e377a1a61c68b73ac61bbd890f40183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0357f848ba86fab405df21ac0a91e5c4fff9e6d2">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4babeafe0a81238fb17c066e5e21928023f838a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_c41986322a747fbe022a605bff582c686fecd202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_de17f9d84f72a657e1efb3ec0ef498b5a7e5134c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_f4c320656d9e44406ae73057ebd0d4ae4bcf8f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bb438e3d375e596a73d541ad7d991eb24031d852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_d05ee79ff94a48bdc36ca1cf3f664d59bd1a3d63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_22d41ee11ac56237d448406db83c4832e6d88cf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_b9718ca8e4f5918cdb9c23cd8a79686977a979dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\kkhalaf\Desktop\Android Development\HoroscopeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_bf3e9ed1e984c0b9288339b72153afaccf423532\classes.dex" />
+    </item>
+
+</items>
